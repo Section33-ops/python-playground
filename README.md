@@ -21,6 +21,8 @@ Each file represents what i learned on that day (Day1-DayX)
 - Day 16: File handling
 - Day 17: Error handling
 - Day 18: Modules and Packages
+- Day 19: File Handling(text and csv)
+- Day 20: File Handling(json)
 
 ## Goal
 To build a strong foundation in Python by practicing daily and uploading progress here.
